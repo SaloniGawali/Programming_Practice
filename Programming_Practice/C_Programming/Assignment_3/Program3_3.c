@@ -1,0 +1,6 @@
+// Write a program which accept number from user and print even factors of that number
+
+int main()
+{
+    
+}
